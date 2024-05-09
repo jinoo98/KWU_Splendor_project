@@ -4,6 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using CardDB;
+//using GameRule;
+
 namespace KWU_Splendor
 {
     internal static class Program
