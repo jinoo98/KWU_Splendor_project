@@ -154,7 +154,7 @@
             this.chk_dia.Name = "chk_dia";
             this.chk_dia.Size = new System.Drawing.Size(104, 19);
             this.chk_dia.TabIndex = 10;
-            this.chk_dia.Text = "checkBox1";
+            this.chk_dia.Text = "다이아몬드";
             this.chk_dia.UseVisualStyleBackColor = true;
             // 
             // chk_saf
@@ -162,9 +162,9 @@
             this.chk_saf.AutoSize = true;
             this.chk_saf.Location = new System.Drawing.Point(201, 162);
             this.chk_saf.Name = "chk_saf";
-            this.chk_saf.Size = new System.Drawing.Size(104, 19);
+            this.chk_saf.Size = new System.Drawing.Size(111, 24);
             this.chk_saf.TabIndex = 11;
-            this.chk_saf.Text = "checkBox2";
+            this.chk_saf.Text = "사파이어";
             this.chk_saf.UseVisualStyleBackColor = true;
             // 
             // chk_eme
@@ -172,9 +172,9 @@
             this.chk_eme.AutoSize = true;
             this.chk_eme.Location = new System.Drawing.Point(201, 253);
             this.chk_eme.Name = "chk_eme";
-            this.chk_eme.Size = new System.Drawing.Size(104, 19);
+            this.chk_eme.Size = new System.Drawing.Size(111, 24);
             this.chk_eme.TabIndex = 12;
-            this.chk_eme.Text = "checkBox3";
+            this.chk_eme.Text = "에메랄드";
             this.chk_eme.UseVisualStyleBackColor = true;
             // 
             // chk_rub
@@ -182,9 +182,9 @@
             this.chk_rub.AutoSize = true;
             this.chk_rub.Location = new System.Drawing.Point(201, 347);
             this.chk_rub.Name = "chk_rub";
-            this.chk_rub.Size = new System.Drawing.Size(104, 19);
+            this.chk_rub.Size = new System.Drawing.Size(74, 24);
             this.chk_rub.TabIndex = 13;
-            this.chk_rub.Text = "checkBox4";
+            this.chk_rub.Text = "루비";
             this.chk_rub.UseVisualStyleBackColor = true;
             // 
             // chk_ony
@@ -192,9 +192,9 @@
             this.chk_ony.AutoSize = true;
             this.chk_ony.Location = new System.Drawing.Point(201, 436);
             this.chk_ony.Name = "chk_ony";
-            this.chk_ony.Size = new System.Drawing.Size(104, 19);
+            this.chk_ony.Size = new System.Drawing.Size(93, 24);
             this.chk_ony.TabIndex = 14;
-            this.chk_ony.Text = "checkBox5";
+            this.chk_ony.Text = "줄마노";
             this.chk_ony.UseVisualStyleBackColor = true;
             // 
             // btn_take
