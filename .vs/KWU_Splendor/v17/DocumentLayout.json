@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -65,9 +61,10 @@
               "RelativeDocumentMoniker": "KWU_Splendor\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\youngkyun\\source\\repos\\KWU_Splendor_project\\KWU_Splendor\\Form1.Designer.cs",
               "RelativeToolTip": "KWU_Splendor\\Form1.Designer.cs",
-              "ViewState": "AQIAAFoFAAAAAAAAAAAewAMIAAAAAAAA",
+              "ViewState": "AQIAAOQHAAAAAAAAAAAswAMIAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T11:51:10.523Z"
+              "WhenOpened": "2024-05-14T11:51:10.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
