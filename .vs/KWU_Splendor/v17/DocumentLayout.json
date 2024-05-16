@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7012ED70-E1A5-45E4-B0F7-9C83A9A32D06}|KWU_Splendor\\KWU_Splendor.csproj|solutionrelative:kwu_splendor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4D87D7F5-539C-4BFE-9960-59DEE4E67619}|GameRule\\GameRule.csproj|C:\\Users\\youngkyun\\source\\repos\\KWU_Splendor_project\\gamerule\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D87D7F5-539C-4BFE-9960-59DEE4E67619}|GameRule\\GameRule.csproj|solutionrelative:gamerule\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7012ED70-E1A5-45E4-B0F7-9C83A9A32D06}|KWU_Splendor\\KWU_Splendor.csproj|C:\\Users\\youngkyun\\source\\repos\\KWU_Splendor_project\\kwu_splendor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7012ED70-E1A5-45E4-B0F7-9C83A9A32D06}|KWU_Splendor\\KWU_Splendor.csproj|solutionrelative:kwu_splendor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,8 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\youngkyun\\source\\repos\\KWU_Splendor_project\\GameRule\\Class1.cs",
+              "RelativeDocumentMoniker": "GameRule\\Class1.cs",
+              "ToolTip": "C:\\Users\\youngkyun\\source\\repos\\KWU_Splendor_project\\GameRule\\Class1.cs",
+              "RelativeToolTip": "GameRule\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:00:19.168Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -42,20 +62,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\youngkyun\\source\\repos\\KWU_Splendor_project\\KWU_Splendor\\Form1.cs",
               "RelativeDocumentMoniker": "KWU_Splendor\\Form1.cs",
               "ToolTip": "C:\\Users\\youngkyun\\source\\repos\\KWU_Splendor_project\\KWU_Splendor\\Form1.cs",
               "RelativeToolTip": "KWU_Splendor\\Form1.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAUwB8AAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T02:12:16.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T02:12:16.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\youngkyun\\source\\repos\\KWU_Splendor_project\\KWU_Splendor\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "KWU_Splendor\\Form1.Designer.cs",
@@ -63,12 +82,11 @@
               "RelativeToolTip": "KWU_Splendor\\Form1.Designer.cs",
               "ViewState": "AQIAAOQHAAAAAAAAAAAswAMIAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T11:51:10.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T11:51:10.523Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\youngkyun\\source\\repos\\KWU_Splendor_project\\CardDB\\Class1.cs",
               "RelativeDocumentMoniker": "CardDB\\Class1.cs",
@@ -76,8 +94,7 @@
               "RelativeToolTip": "CardDB\\Class1.cs",
               "ViewState": "AQIAAJUAAAAAAAAAAAAswIEAAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T15:38:46.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T15:38:46.022Z"
             }
           ]
         }
